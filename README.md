@@ -8,4 +8,4 @@ This repository contains the Python scripts, Jupyter Notebooks, and MintPy confi
 * **`Final Displacement Plot.ipynb`**: The primary notebook used to visualize displacement time-series 
 
 # THIS WORK IS CURRENTLY UNDER REVIEW. 
-# DETEAILS WILL BE PROVIDED AFTER PUBLICATION OF THE ARTICLE
+DETEAILS WILL BE PROVIDED AFTER PUBLICATION OF THE ARTICLE
