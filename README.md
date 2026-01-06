@@ -7,4 +7,5 @@ This repository contains the Python scripts, Jupyter Notebooks, and MintPy confi
 * **`MintPy Results/`**: Small-baseline configuration (`.cfg`) files used for processing.
 * **`Final Displacement Plot.ipynb`**: The primary notebook used to visualize displacement time-series 
 
-# THIS WORK IS CURRENTLY UNDER REVIEW. DETEAILS WILL BE PROVIDED AFTER PUBLICATION OF THE ARTICLE
+# THIS WORK IS CURRENTLY UNDER REVIEW. 
+# DETEAILS WILL BE PROVIDED AFTER PUBLICATION OF THE ARTICLE
